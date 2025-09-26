@@ -76,7 +76,7 @@ Yes, the desktop version offers offline mode, local saves, and smoother performa
 
 ## 🖼 Preview  
 
-![Hemingway Interface](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLpdl2754GIy9QrXxGQEaeKciImOkq3haN5Q&s)  
+![Hemingway Interface](https://hemingwayapp.com/desktop/editing5.gif)  
 
 ---
 
